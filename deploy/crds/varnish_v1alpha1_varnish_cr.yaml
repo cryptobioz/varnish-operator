@@ -1,0 +1,7 @@
+apiVersion: varnish.exadot.fr/v1alpha1
+kind: Varnish
+metadata:
+  name: varnish
+spec:
+  # Add fields here
+  size: 3
